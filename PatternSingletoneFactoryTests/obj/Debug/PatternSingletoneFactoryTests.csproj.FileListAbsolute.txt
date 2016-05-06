@@ -1,0 +1,14 @@
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactoryTests\bin\Debug\chromedriver.exe
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactoryTests\bin\Debug\PatternSingletoneFactoryTests.dll
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactoryTests\bin\Debug\PatternSingletoneFactoryTests.pdb
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactoryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactoryTests\bin\Debug\PatternSingletoneFactory.dll
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactoryTests\bin\Debug\WebDriver.dll
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactoryTests\bin\Debug\WebDriver.Support.dll
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactoryTests\bin\Debug\PatternSingletoneFactory.pdb
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactoryTests\bin\Debug\WebDriver.xml
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactoryTests\bin\Debug\WebDriver.Support.xml
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactoryTests\obj\Debug\PatternSingletoneFactoryTests.csprojResolveAssemblyReference.cache
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactoryTests\obj\Debug\PatternSingletoneFactoryTests.dll
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactoryTests\obj\Debug\PatternSingletoneFactoryTests.pdb
+C:\Users\Valery_Kapatsevich@epam.com\Documents\Visual Studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactoryTests\bin\Debug\PatternSingletoneFactoryTests.dll.config

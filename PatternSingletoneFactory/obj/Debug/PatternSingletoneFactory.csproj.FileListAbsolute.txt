@@ -1,0 +1,10 @@
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactory\bin\Debug\chromedriver.exe
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactory\bin\Debug\PatternSingletoneFactory.dll
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactory\bin\Debug\PatternSingletoneFactory.pdb
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactory\bin\Debug\WebDriver.dll
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactory\bin\Debug\WebDriver.Support.dll
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactory\bin\Debug\WebDriver.xml
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactory\bin\Debug\WebDriver.Support.xml
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactory\obj\Debug\PatternSingletoneFactory.dll
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactory\obj\Debug\PatternSingletoneFactory.pdb
+C:\Users\Valery_Kapatsevich@epam.com\Documents\Visual Studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactory\obj\Debug\PatternSingletoneFactory.csprojResolveAssemblyReference.cache
