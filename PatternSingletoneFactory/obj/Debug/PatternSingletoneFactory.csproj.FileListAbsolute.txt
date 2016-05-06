@@ -8,3 +8,12 @@ c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeT
 c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactory\obj\Debug\PatternSingletoneFactory.dll
 c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactory\obj\Debug\PatternSingletoneFactory.pdb
 C:\Users\Valery_Kapatsevich@epam.com\Documents\Visual Studio 2015\Projects\HomeTaskPatterns\PatternSingletoneFactory\obj\Debug\PatternSingletoneFactory.csprojResolveAssemblyReference.cache
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsSingletoneFactory\PatternSingletoneFactory\bin\Debug\chromedriver.exe
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsSingletoneFactory\PatternSingletoneFactory\bin\Debug\PatternSingletoneFactory.dll
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsSingletoneFactory\PatternSingletoneFactory\bin\Debug\PatternSingletoneFactory.pdb
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsSingletoneFactory\PatternSingletoneFactory\bin\Debug\WebDriver.dll
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsSingletoneFactory\PatternSingletoneFactory\bin\Debug\WebDriver.Support.dll
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsSingletoneFactory\PatternSingletoneFactory\bin\Debug\WebDriver.xml
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsSingletoneFactory\PatternSingletoneFactory\bin\Debug\WebDriver.Support.xml
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsSingletoneFactory\PatternSingletoneFactory\obj\Debug\PatternSingletoneFactory.dll
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsSingletoneFactory\PatternSingletoneFactory\obj\Debug\PatternSingletoneFactory.pdb
