@@ -9,7 +9,7 @@ namespace PatternSingletoneFactoryTests
     public class UnitTests
     {
         [TestMethod]
-        public void OpenCloseBrowser()
+        public void WebDriverInSingletone()
         {   
             var firstDriver = WebDriver.GetDriver();
             var secondDriver = WebDriver.GetDriver();
